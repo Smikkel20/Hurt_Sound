@@ -1,13 +1,6 @@
 {
    "pack": {
-      "pack_format": 4,
+      "pack_format": 6,
       "description": "The 1.0 Hurt sound"
-   },
-"language": {
-      "en_5h": {
-         "name": "5head",
-         "region": "5heads",
-         "bidirectional": false
-      }
    }
 }
